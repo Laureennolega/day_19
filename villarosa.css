@@ -1,0 +1,207 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.text{
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+}
+
+.text_1 button{
+    padding: 15px 15px;
+    margin-left: 90%;
+    margin-bottom: 15px;
+    cursor: pointer;
+    border: 0ch;
+    transition: 1s;
+}
+.text_1 button:hover{
+    background-color: beige;
+}
+.column{
+    background-image: url('./KEMPINSKI.avif');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    padding: 20%;
+}
+.column h1{
+    font-size: 60px;
+    color: purple;
+}
+.column p{
+    font-size: 25px;
+    color: purple;
+    padding: 20px;
+}
+.row ul{
+    display: flex;
+}
+.row ul li{
+    padding: 20px 30px;
+    display: flex;
+    text-decoration: none;
+    font-size: 40px;
+}
+.hello{
+    display: flex;
+    padding: 40px;
+}
+.hello h2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+.hello p{
+   padding-top: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.hello button{
+    padding: 10px 40px;
+    margin: 50px;
+    cursor: pointer;
+    transition: 1s;
+    border: none;
+}
+.hello button:hover{
+    background-color: plum; 
+}
+.hello img{
+    width: 450px;
+}
+.point{
+    display: flex;
+    padding: 40px;
+}
+.point h2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+.point p{
+   padding-top: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.point button{
+    padding: 10px 40px;
+    margin: 50px;
+    cursor: pointer;
+    transition: 1s;
+    border: none;
+}
+.point button:hover{
+    background-color: lightsalmon; 
+}
+.valley{
+    display: flex;
+    padding: 40px;
+}
+.valley h2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+.valley p{
+   padding-top: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.valley button{
+    padding: 10px 40px;
+    margin: 50px;
+    cursor: pointer;
+    transition: 1s;
+    border: none;
+}
+.valley button:hover{
+    background-color: lavenderblush; 
+}
+.drop{
+    display: flex;
+    padding: 40px;
+}
+.drop h2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 40px;
+    padding-right: 20px;
+}
+.drop p{
+   padding-top: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.drop button{
+    padding: 10px 40px;
+    margin: 50px;
+    cursor: pointer;
+    transition: 1s;
+    border: none;
+}
+.drop button:hover{
+    background-color: palegoldenrod;
+}
+.container{
+    display: flex;
+    padding: 40px;
+}
+.container h2{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 40px;
+   
+}
+.container p{
+   padding-top: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.container button{
+    padding: 10px 40px;
+    margin: 50px 50px;
+    cursor: pointer;
+    transition: 1s;
+    border: none;
+}
+.container button:hover{
+    background-color: royalblue;
+}
+.entry{
+    background-color: rgb(9, 9, 53);
+    width: 100%;
+    height: 70vh;
+    color: white;
+    padding: 50px 60px;
+    font-size: 20px;
+    display: flex;
+    gap: 20%;
+    
+}
+.entry ul li{
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+}
+.entry ul li:hover{
+    text-decoration: underline;
+    transition: 1s;   
+}
+.entry p{
+    padding: 10px;
+}
+.intro{
+   display: flex;
+}
+
+
+
+
+    
